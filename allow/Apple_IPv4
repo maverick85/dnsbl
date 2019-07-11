@@ -1,0 +1,12 @@
+# This file contains the known IPv4 networks attributed to Apple Inc.
+# to allow communication from Apple devices with Apple.
+#
+# Date: 11 July 2019 12:12:28 (UTC)
+# Current number of networks: 1
+#
+# Fetch the latest version of this file: 
+# Project home page: 
+# Project releases: 
+#
+# ===============================================================
+17.0.0.0/8
