@@ -1,0 +1,15 @@
+# This file contains the known IPv6 networks attributed to Apple Inc.
+# to allow communication from Apple devices with Apple.
+#
+# Date: 14 July 2019 19:03 (UTC)
+# Current number of networks: 5
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/maverick85/dnsbl/master/allow/Apple_IPv6
+# Project home page: https://github.com/maverick85/dnsbl
+#
+# ===============================================================
+2620:149::/32			#Apple Inc. (APPLE-WWNET)
+2a01:b740::/29			#Apple Distribution International Ltd. (IE-APPLE-20120905)
+2403:300::/32			#Apple South Asia Pte Ltd. (APPLE-SG)
+2620:0:1b00::/45		#Apple Inc. (APPLE-WWNET)
+2620:149::/32			#Apple Inc. (APPLE-WWNET)
